@@ -2,7 +2,7 @@
 ```
 # 转npy
 convert_to_npy.py
-# qso寻优 & 训练CNN
+# pso寻优 & 训练CNN
 keras_train.py
 # 在test集上预测
 keras_inference.py
